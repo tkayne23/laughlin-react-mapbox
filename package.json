@@ -1,8 +1,14 @@
 {
-  "name": "basic",
-  "version": "0.0.0",
+  "name": "Laughlin",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "npm": "6.7.0",
+    "node": "11.5.0"
+  },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "devDependencies": {
     "react-scripts": "^1.0.10"
